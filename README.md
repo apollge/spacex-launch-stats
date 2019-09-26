@@ -1,4 +1,4 @@
-## GraphQL with Reacth & Apollo
+## GraphQL with React & Apollo
 
 Demo [link](https://still-basin-45105.herokuapp.com).
 
